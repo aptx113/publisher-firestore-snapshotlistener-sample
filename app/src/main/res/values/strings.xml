@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Publisher</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="you_know_nothing">You know nothing</string>
+
+    <string name="tag_beauty">Beauty</string>
+</resources>
